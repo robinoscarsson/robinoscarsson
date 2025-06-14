@@ -9,7 +9,7 @@ I'm a passionate software developer with a deep love for **Python** and **Shell 
 - **Continuous Learning**: Always exploring new Python libraries and shell scripting techniques
 - **Problem Solving**: Turning complex problems into simple, automated solutions
 
-## 🛠Tech Stack
+## Tech Stack
 - **Languages**: Python, Bash/Shell, JavaScript
 - **Python Libraries**: pynput, requests, pandas, numpy, and more
 - **Tools**: Git, Linux, VS Code
