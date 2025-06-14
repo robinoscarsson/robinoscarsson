@@ -4,10 +4,10 @@
 I'm a passionate software developer with a deep love for **Python** and **Shell scripting**. I enjoy automating everyday tasks, building efficient solutions, and continuously expanding my knowledge in these powerful technologies.
 
 ## What I'm Working On
-- 🐍 **Python Development**: Creating automation tools, scripts, and applications
-- 🖱️ **System Automation**: Building tools like mouse movement controllers and system utilities
-- 📚 **Continuous Learning**: Always exploring new Python libraries and shell scripting techniques
-- 🔧 **Problem Solving**: Turning complex problems into simple, automated solutions
+- **Python Development**: Creating automation tools, scripts, and applications
+- 🖱**System Automation**: Building tools like mouse movement controllers and system utilities
+- **Continuous Learning**: Always exploring new Python libraries and shell scripting techniques
+- **Problem Solving**: Turning complex problems into simple, automated solutions
 
 ## 🛠Tech Stack
 - **Languages**: Python, Bash/Shell, JavaScript
