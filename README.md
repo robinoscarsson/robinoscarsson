@@ -5,7 +5,7 @@ I'm a passionate software developer with a deep love for **Python** and **Shell 
 
 ## What I'm Working On
 - **Python Development**: Creating automation tools, scripts, and applications
-- 🖱**System Automation**: Building tools like mouse movement controllers and system utilities
+- **System Automation**: Building tools like mouse movement controllers and system utilities
 - **Continuous Learning**: Always exploring new Python libraries and shell scripting techniques
 - **Problem Solving**: Turning complex problems into simple, automated solutions
 
